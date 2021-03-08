@@ -11,4 +11,4 @@ gcc -Wall -Wextra -fPIC  -rdynamic main.c -g  -I./include -I.  -L.  -lpthread -l
 ./main.out
 
 # Output
-![Sample Run](https://github.com/ParthPratim/liblkl-test/blob/master/sample-run.png?raw=true)
+![Sample Run](./sample-run.png)
