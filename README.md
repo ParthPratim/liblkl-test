@@ -8,7 +8,9 @@ gcc -Wall -Wextra -fPIC  -rdynamic main.c -g  -I./include -I.  -L.  -lpthread -l
 ```
 
 # Run
+```
 ./main.out
+```
 
 # Output
 ![Sample Run](./sample-run.png)
